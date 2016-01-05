@@ -1,0 +1,5 @@
+C:\Users\Alexander\Desktop\GenesisCraftRepo\GenesisCraft\ConfigGUI\bin\Debug\ConfigGUI.exe
+C:\Users\Alexander\Desktop\GenesisCraftRepo\GenesisCraft\ConfigGUI\bin\Debug\ConfigGUI.pdb
+C:\Users\Alexander\Desktop\GenesisCraftRepo\GenesisCraft\ConfigGUI\obj\x86\Debug\ConfigGUI.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\GenesisCraftRepo\GenesisCraft\ConfigGUI\obj\x86\Debug\ConfigGUI.exe
+C:\Users\Alexander\Desktop\GenesisCraftRepo\GenesisCraft\ConfigGUI\obj\x86\Debug\ConfigGUI.pdb

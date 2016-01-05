@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenesisCraftCLI", "GenesisCraftCLI\GenesisCraftCLI.csproj", "{0C7A95BD-6F47-487F-8F1D-1B1701E6CB3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigGUI", "ConfigGUI\ConfigGUI.csproj", "{9A0B5881-228C-4D21-A5DD-E78CA59CA26B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{0C7A95BD-6F47-487F-8F1D-1B1701E6CB3E}.Debug|x86.Build.0 = Debug|x86
 		{0C7A95BD-6F47-487F-8F1D-1B1701E6CB3E}.Release|x86.ActiveCfg = Release|x86
 		{0C7A95BD-6F47-487F-8F1D-1B1701E6CB3E}.Release|x86.Build.0 = Release|x86
+		{9A0B5881-228C-4D21-A5DD-E78CA59CA26B}.Debug|x86.ActiveCfg = Debug|x86
+		{9A0B5881-228C-4D21-A5DD-E78CA59CA26B}.Debug|x86.Build.0 = Debug|x86
+		{9A0B5881-228C-4D21-A5DD-E78CA59CA26B}.Release|x86.ActiveCfg = Release|x86
+		{9A0B5881-228C-4D21-A5DD-E78CA59CA26B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
