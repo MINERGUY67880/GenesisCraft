@@ -1,0 +1,10 @@
+C:\Users\Alexander\Documents\Projects\GenesisCraftCLI\GenesisCraftCLI\bin\Debug\GenesisCraftCLI.exe
+C:\Users\Alexander\Documents\Projects\GenesisCraftCLI\GenesisCraftCLI\bin\Debug\GenesisCraftCLI.pdb
+C:\Users\Alexander\Documents\Projects\GenesisCraftCLI\GenesisCraftCLI\obj\x86\Debug\GenesisCraftCLI.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Projects\GenesisCraftCLI\GenesisCraftCLI\obj\x86\Debug\GenesisCraftCLI.exe
+C:\Users\Alexander\Documents\Projects\GenesisCraftCLI\GenesisCraftCLI\obj\x86\Debug\GenesisCraftCLI.pdb
+C:\Users\Alexander\Desktop\GenesisCraft\GenesisCraftCLI\GenesisCraftCLI\bin\Debug\GenesisCraftCLI.exe
+C:\Users\Alexander\Desktop\GenesisCraft\GenesisCraftCLI\GenesisCraftCLI\bin\Debug\GenesisCraftCLI.pdb
+C:\Users\Alexander\Desktop\GenesisCraft\GenesisCraftCLI\GenesisCraftCLI\obj\x86\Debug\GenesisCraftCLI.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\GenesisCraft\GenesisCraftCLI\GenesisCraftCLI\obj\x86\Debug\GenesisCraftCLI.exe
+C:\Users\Alexander\Desktop\GenesisCraft\GenesisCraftCLI\GenesisCraftCLI\obj\x86\Debug\GenesisCraftCLI.pdb
